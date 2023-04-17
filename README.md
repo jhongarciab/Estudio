@@ -11,7 +11,7 @@ En el repositorio se encuentran distintos archivos donde se llevan a cabo distin
 
 -[Proyectos](https://github.com/jhongarciab/Estudio/tree/master/Proyectos)
 
-proyectos prácticos para mejorar habilidades de programación en Python.
+Proyectos prácticos para mejorar habilidades de programación en Python.
 
 -[Fundamentos Python](https://github.com/jhongarciab/Estudio/blob/master/Fundamentos_py.ipynb)
 
