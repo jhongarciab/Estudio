@@ -9,6 +9,6 @@ Python es un lenguaje de programación interpretado de alto nivel, diseñado par
 
 En el repositorio se encuentran distintos archivos donde se llevan a cabo distintos fines:
 
--Fundamentos_py.ipynb: Contiene recursos sobre los conceptos básicos de Python, como variables, tipos de datos, operadores, estructuras de control de flujo, funciones y módulos.
+-Fundamentos_py.ipynb: Contiene recursos sobre los conceptos básicos de Python, como variables, tipos de datos, operadores, estructuras de control de flujo, funciones, etc.
 
--POO.ipynb: Contiene recursos para aprender los conceptos de programación orientada a objetos en Python, como clases, objetos, herencia y polimorfismo.
+-POO.ipynb: Contiene recursos para aprender los conceptos de programación orientada a objetos en Python, como clases, objetos, herencia, polimorfismo, etc.
